@@ -1,0 +1,6 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: Practica3, configuración: Debug Any CPU ------
+1>C:\Users\Usuario\Documents\Progra lll\Repositorios\Practica3\Program.cs(46,25,46,38): error CS1061: "Operaciones" no contiene una definición para "LlenarArreglo" ni un método de extensión accesible "LlenarArreglo" que acepte un primer argumento del tipo "Operaciones" (¿falta alguna directiva using o una referencia de ensamblado?)
+1>C:\Users\Usuario\Documents\Progra lll\Repositorios\Practica3\Program.cs(50,43,50,58): error CS1061: "Operaciones" no contiene una definición para "ImprimirArreglo" ni un método de extensión accesible "ImprimirArreglo" que acepte un primer argumento del tipo "Operaciones" (¿falta alguna directiva using o una referencia de ensamblado?)
+1>Compilación del proyecto "Practica3.csproj" terminada -- ERROR.
+========== Compilar: 0 correctos, 1 incorrectos, 0 actualizados, 0 omitidos ==========
